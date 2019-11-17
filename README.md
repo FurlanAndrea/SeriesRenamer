@@ -19,7 +19,7 @@ You can create a new Windows Form Application and copy-paste the repository file
 
 ### Select a folder
 
-Select a folder that contains files that needs to be renamed. Either drag and drop it onto the Application or type the the folder's path into the textbox.
+Select a folder that contains files that needs to be renamed. Either drag and drop it onto the Application or type the folder's path into the textbox.
 <br/>Application<br/>
 ![image](https://drive.google.com/uc?export=view&id=1vsqsSaZDOlCz3wJ84iXnn7XmS2Mz-Dz9)
 <br/>Folder<br/>
