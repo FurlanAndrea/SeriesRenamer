@@ -20,17 +20,17 @@ You can create a new Windows Form Application and copy-paste the repository file
 ### Select a folder
 
 Select a folder that contains files that needs to be renamed. Either drag and drop it onto the Application or type the the folder's path into the textbox.
-Application
+Application<br/>
 ![image](https://drive.google.com/uc?export=view&id=1vsqsSaZDOlCz3wJ84iXnn7XmS2Mz-Dz9)
-Folder
+Folder<br/>
 ![image](https://drive.google.com/uc?export=view&id=10_yOFvYMHF_ohtEOQ03mQSkMqUpAoJrJ)
 
 ### Rename files
 
 Select which types of files you want to rename, select if you prefer to start from a different episode than 'E01', and press the Rename button. All done, the files are renamed with the same name of the folder selected.
-Application
+Application<br/>
 ![image](https://drive.google.com/uc?export=view&id=1nAl7GTDtBPJHrdwlJ4QcNmdvkGMnQd-b)
-Folder
+Folder<br/>
 ![image](https://drive.google.com/uc?export=view&id=1Kba6FwDlVaLJt2xpDd674Xsc658AaEMC)
 
 
